@@ -3,7 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Nipuni35&color=red)
 
-<h3>When I code, I rely on</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-E34F76?style=flat-square&logo=html5&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
