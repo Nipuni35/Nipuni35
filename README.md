@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=Nipuni35&color=red)
 
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-E34F76?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-E34F76?style=flat-square&logo=java&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
