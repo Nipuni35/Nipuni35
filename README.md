@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m a recent graduate of University of Alberta.
+- 🔭 I’m a recent masters graduate of University of Alberta.
 - 👩‍💻 Highly motivated professional with a passion for Software Engineering. Armed with a strong background in Software Development, especially in Java.
 - 👩‍🔬 I bring a unique blend of technical proficiency including data structures and algorithms, code optimization (e.g., code quality), and debugging/ troubleshooting and soft skills including communication, collaboration, problem-solving.
 - 💻 I have experience in developing different scalable platforms in microservice architectures, troubleshooting, and familiarity in DevOps tools (e.g., Kubernetes, Docker, Jenkins).
