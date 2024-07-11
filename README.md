@@ -4,7 +4,7 @@
 - 👩‍🔬 I bring a unique blend of technical proficiency including data structures and algorithms, code optimization (e.g., code quality), and debugging/ troubleshooting and soft skills including communication, collaboration, problem-solving.
 - 💻 I have experience in developing different scalable platforms in microservice architectures, troubleshooting, and familiarity in DevOps tools (e.g., Kubernetes, Docker, Jenkins).
 - 🔎 **Currently seeking opportunities to contribute to innovative projects, collaborating with different functional teams**.
-- 📫 Updated Resume - ![https://www.canva.com/design/DAF1xgnWhDU/TfKydXvJzJ1XN2w2ro9vKg/view?utm_content=DAF1xgnWhDU&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAF1xgnWhDU/TfKydXvJzJ1XN2w2ro9vKg/view?utm_content=DAF1xgnWhDU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- 📫 ![Updated Resume](https://www.canva.com/design/DAF1xgnWhDU/TfKydXvJzJ1XN2w2ro9vKg/view?utm_content=DAF1xgnWhDU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ![](https://komarev.com/ghpvc/?username=Nipuni35&color=red)
 
